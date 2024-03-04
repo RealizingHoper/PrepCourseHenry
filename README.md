@@ -1,2 +1,2 @@
 # PrepCourseHenry
-Repositorio de prueba del PrepCourse de Henry
+Este es un vestigio del poder que gane como programador
